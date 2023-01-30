@@ -474,7 +474,7 @@ nav .logo {
 
 @media(max-width:1000px){
     nav .mainMenu {
-        height: 50vh;
+        height: 60vh;
         position: fixed;
         top: 0;
         right: 0;
@@ -488,6 +488,13 @@ nav .logo {
         display: none;
     }
 
+    .star {
+        margin: 0;
+        width: 70%;
+        text-align: center;
+        margin-left: 1.5rem;
+    }
+
     nav .mainMenu .closeMenu {
         display: block;
         position: absolute;
@@ -496,7 +503,9 @@ nav .logo {
     }
 
     nav .openMenu {
-        display: block;
+        display: flex;
+        margin-left: 21rem;
+        cursor: pointer;
     }
 
     nav .mainMenu li a:hover {
@@ -509,10 +518,14 @@ nav .logo {
         font-size: 15px;
         margin: 0;
         margin-left: 2rem;
+        margin-top: .6rem;
     }
 
     .start {
-        width: 30%;
+        width: 20%;
+        padding: 0;
+        padding: .5rem;
+        text-align: center;
     }
 
     .ilustrate img {
@@ -534,6 +547,11 @@ nav .logo {
         display: grid;
     }
 
+    .org-text {
+        margin: 0;
+        margin-top: 1rem;
+    }
+
     .org-text h1 {
         font-size: 18px;
     }
@@ -543,6 +561,12 @@ nav .logo {
         margin-top: .5rem;
     }
 
+    .solutions {
+        margin: 0;
+        margin-top: 1rem;
+        margin-left: .5rem;
+    }
+
     .solutions h1 {
         font-size: 18px;
     }
@@ -550,6 +574,13 @@ nav .logo {
     .solutions p {
         font-size: 15px;
         margin-top: .5rem;
+    }
+
+    .world {
+        margin: 0;
+        margin-top: 1rem;
+        margin: 0 auto;
+        margin-top: 1rem;
     }
 
     .world h1 {
