@@ -45,7 +45,7 @@ nav .mainMenu li a:hover {
 }
 
 nav .openMenu {
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin: 20px;
     display: none;
 }
@@ -107,19 +107,20 @@ nav .logo {
     margin-top: 1rem;
 }
 
+.list {
+    list-style: none;
+    margin-top: 1rem;
+    margin-right: 10rem;
+}
+
 .star {
     background-color: rgb(54, 54, 230);
     color: #fff;
     text-decoration: none;
-    display: flex;
-    justify-content: center;
-    margin: 0 auto;
-    width: 40%;
-    padding: .6rem;
+    width: 100%;
     border-radius: 4px;
-    margin-left: 14rem;
-    margin-top: .4rem;
     text-align: center;
+    padding: .5rem;
 }
 
 .vision {
@@ -489,9 +490,13 @@ nav .logo {
 
     .star {
         margin: 0;
-        width: 70%;
+        width: 100%;
         text-align: center;
-        margin-left: 1.5rem;
+    }
+
+    .list {
+        margin: 0;
+        margin-top: 1rem;
     }
 
     nav .mainMenu .closeMenu {
@@ -504,7 +509,6 @@ nav .logo {
     nav .openMenu {
         display: block;
         cursor: pointer;
-        margin-left: 10rem;
     }
 
     nav .mainMenu li a:hover {
@@ -520,8 +524,16 @@ nav .logo {
         margin-top: .6rem;
     }
 
+    .get {
+        width: 30%;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+        margin-top: 1rem;
+    }
+
     .start {
-        width: 20%;
+        width: 100%;
         padding: 0;
         padding: .5rem;
         text-align: center;
@@ -529,21 +541,26 @@ nav .logo {
 
     .ilustrate img {
         width: 100%;
+        margin-top: 1rem;
     }
 
     .text h1 {
         width: 100%;
         font-size: 18px;
+        margin: 0;
     }
 
     .text p {
         width: 100%;
         font-size: 15px;
+        margin: 0;
     }
     
 
     .vision {
         display: grid;
+        justify-content: center;
+        margin: 0 auto;
     }
 
     .org-text {
@@ -634,6 +651,8 @@ nav .logo {
         width: 100%;
         margin: 0;
         margin-top: 2rem;
+        margin: 0 auto;
+        margin-top: 2rem;
     }
 
     .old-img h1 {
@@ -643,6 +662,7 @@ nav .logo {
 
     .speak-img img {
         width: 100%;
+        margin: 0 auto;
         margin-top: 2rem;
     }
 
