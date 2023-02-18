@@ -536,7 +536,6 @@ nav .logo {
 
     nav .mainMenu li a:hover {
         background: none;
-        color: white;
         font-size: .8rem;
     }
 
@@ -544,7 +543,7 @@ nav .logo {
         font-size: 15px;
         margin: 0;
         margin-left: 2rem;
-        margin-top: .6rem;
+        margin-top: .8rem;
     }
 
     .get {
@@ -559,6 +558,7 @@ nav .logo {
         margin-left: 9.5rem;
         display: none;
     }
+
 
     .start {
         width: 100%;
@@ -582,6 +582,7 @@ nav .logo {
         width: 100%;
         font-size: 15px;
         margin: 0;
+        margin-top: 1rem;
     }
     
 
