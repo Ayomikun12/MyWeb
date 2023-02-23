@@ -259,9 +259,8 @@ nav .logo {
 
 .new-img img {
     width: 75%;
-    margin-left: 1rem;
+    margin-left: 3rem;
     border-radius: 6px;
-    height: 40vh;
 }
 
 .new-img h1 {
@@ -274,7 +273,6 @@ nav .logo {
     width: 70%;
     margin-left: 3rem;
     border-radius: 6px;
-    height: 40vh;
 }
 
 .old-img h1 {
@@ -287,7 +285,6 @@ nav .logo {
     width: 80%;
     margin-left: 2rem;
     border-radius: 6px;
-    height: 40vh;
 }
 
 .speak-img h1 {
@@ -666,20 +663,22 @@ nav .logo {
     }
 
     .new-img img {
-        width: 100%;
-        margin: 0;
+        width: 80%;
+        display: flex;
+        justify-content: center;
         margin: 0 auto;
     }
 
     .new-img h1 {
         text-align: center;
         font-size: 18px;
+        margin-top: .8rem;
     }
 
     .old-img img {
-        width: 100%;
-        margin: 0;
-        margin-top: 2rem;
+        width: 80%;
+        display: flex;
+        justify-content: center;
         margin: 0 auto;
         margin-top: 2rem;
     }
@@ -687,10 +686,13 @@ nav .logo {
     .old-img h1 {
         text-align: center;
         font-size: 18px;
+        margin-top: .8rem;
     }
 
     .speak-img img {
-        width: 100%;
+        width: 80%;
+        display: flex;
+        justify-content: center;
         margin: 0 auto;
         margin-top: 2rem;
     }
@@ -698,6 +700,7 @@ nav .logo {
     .speak-img h1 {
         text-align: center;
         font-size: 18px;
+        margin-top: .8rem;
     }
 
     .magic-img img {
