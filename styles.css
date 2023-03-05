@@ -492,7 +492,7 @@ nav .logo {
         position: fixed;
         top: 0;
         right: 0;
-        left: 0;
+        left: -300px;
         z-index: 10;
         flex-direction: column;
         justify-content: center;
