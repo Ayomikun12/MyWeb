@@ -128,6 +128,7 @@ nav .logo {
 .vision p {
     text-align: center;
     margin-top: 2rem;
+    font-size: 13px;
 }
 
 .org {
@@ -181,7 +182,7 @@ nav .logo {
     animation: animateContent 2s ease-in forwards;
 }
 
-.solutions {
+/*.solutions {
     margin-top: 1rem;
     background-color: rgb(223, 213, 213);;
     padding: 1rem;
@@ -203,7 +204,7 @@ nav .logo {
     text-align: center;
     opacity: .6;
     color: rgb(87, 87, 233);
-}
+}*/
 
 .world {
     /*margin-top: 1rem;
