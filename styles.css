@@ -681,8 +681,8 @@ nav .logo {
     }
 
     .text p {
-        width: 85%;
-        font-size: 15px;
+        width: 100%;
+        font-size: 12px;
         margin: 0 auto;
         margin-top: 1rem;
     }
@@ -773,20 +773,20 @@ nav .logo {
     }
 
     .about h1 {
-        font-size: 18px;
+        font-size: 13px;
     }
 
     .about p {
-        font-size: 15px;
+        font-size: 12px;
         width: 100%;
     }
 
     .service h1 {
-        font-size: 18px;
+        font-size: 13px;
     }
 
     .service p {
-        font-size: 15px;
+        font-size: 12px;
         width: 100%;
         line-height: 1.8;
         text-align: center;
@@ -846,19 +846,19 @@ nav .logo {
     }
 
     .magic-img h1 {
-        font-size: 18px;
+        font-size: 13px;
     }
 
     .magic-img p {
-        font-size: 15px;
+        font-size: 12px;
     }
 
     .con h1 {
-        font-size: 18px;
+        font-size: 13px;
     }
 
     .con p {
-        font-size: 15px;
+        font-size: 12px;
     }
 
     .touch {
@@ -890,6 +890,11 @@ nav .logo {
 
     .lin {
         width: 7%;
+    }
+
+    .useful {
+        margin: 0;
+        margin-left: 1rem;
     }
 
     .refuge {
