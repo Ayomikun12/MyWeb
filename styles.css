@@ -695,7 +695,7 @@ nav .logo {
     }
 
     .org .org-text p {
-        width: 80%;
+        width: 100%;
         font-size: 12px;
     }
 
@@ -712,7 +712,7 @@ nav .logo {
     }
 
     .worlds {
-        width: 100%;
+        width: 80%;
     }
 
     .worlds p {
@@ -880,6 +880,7 @@ nav .logo {
     .terms {
         display: grid;
         font-size: 15px;
+        margin: 0;
     }
 
     .city {
