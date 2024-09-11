@@ -493,6 +493,10 @@ nav .logo {
     margin-top: 3rem;
 }
 
+.refuge {
+    font-size: 28px;
+}
+
 .refuge h1 {
     font-size: 20px;
     margin-left: 3rem;
@@ -576,6 +580,8 @@ nav .logo {
     font-weight: 550;
     font-size: 15px;
     margin: 0 auto;
+    justify-content: center;
+    text-align: center 
 }
 
 @media(max-width:800px){
