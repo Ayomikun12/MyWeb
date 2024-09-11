@@ -100,7 +100,7 @@ nav .logo {
     width: 30%;
     margin: 0 auto;
     margin-top: .8rem;
-    font-size: 22px;
+    font-size: 15px;
     opacity: .6;
     line-height: 1.8;
 }
@@ -255,7 +255,7 @@ nav .logo {
 
 .about h1 {
     text-align: center;
-    color: rgb(87, 87, 233);
+    color: #000;
 }
 
 .about p {
