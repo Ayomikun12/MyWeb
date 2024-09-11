@@ -578,12 +578,11 @@ nav .logo {
     background-color: #2babff;
     color: white;
     padding: 1rem;
-    font-weight: 550;
+    font-weight: 500;
     font-size: 13px;
     margin: 0 auto;
     justify-content: center;
     text-align: center;
-    margin-top: 1.5rem;
 }
 
 @media(max-width:800px){
