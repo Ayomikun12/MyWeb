@@ -125,7 +125,7 @@ nav .logo {
     padding: .5rem;
 }
 
-.vision p {
+.vision .two {
     text-align: center;
     margin-top: 2rem;
     font-size: 13px;
@@ -206,7 +206,7 @@ nav .logo {
     color: rgb(87, 87, 233);
 }*/
 
-.world {
+.hero-text .world {
     /*margin-top: 1rem;
     background-color: rgb(223, 213, 213);;
     padding: 1rem;
@@ -224,14 +224,14 @@ nav .logo {
     animation: animateContent 2s ease-in forwards;
 }
 
-.world img {
+.hero-text .world img {
     width: 100%;
     /*font-size: 23px;
     text-align: center;
     color: rgb(87, 87, 233);*/
 }
 
-.world p {
+.hero-text .world p {
     /*width: 100%;
     font-size: 20px;
     text-align: center;
