@@ -773,10 +773,10 @@ nav .logo {
     }
 
     .about h1 {
-        font-size: 13px;
+        font-size: 15px;
     }
 
-    .about p {
+    .about .two {
         font-size: 12px;
         width: 100%;
         margin: 0;
