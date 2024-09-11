@@ -605,6 +605,7 @@ nav .logo {
         margin: 0;
         width: 100%;
         text-align: center;
+        display: none;
     }
 
     .list {
@@ -651,6 +652,7 @@ nav .logo {
         justify-content: center;
         margin: 0 auto;
         margin-top: 1rem;
+        display: none;
     }
 
     .list  {
@@ -664,6 +666,7 @@ nav .logo {
         padding: 0;
         padding: .5rem;
         text-align: center;
+        display: none;
     }
 
     .ilustrate img {
@@ -672,13 +675,13 @@ nav .logo {
     }
 
     .text h1 {
-        width: 100%;
+        width: 50%;
         font-size: 18px;
         margin: 0;
     }
 
     .text p {
-        width: 100%;
+        width: 50%;
         font-size: 15px;
         margin: 0;
         margin-top: 1rem;
@@ -691,11 +694,23 @@ nav .logo {
         font-size: 12px;
     }
 
+    .org-text p {
+        width: 50%;
+    }
+
     .hero-text {
         display: grid;
         margin: 0;
         padding: 0;
         font-size: 12px;
+    }
+
+    .hero-text p {
+        width: 50%;
+    }
+
+    .worlds p {
+        width: 50%;
     }
     
 
