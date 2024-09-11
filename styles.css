@@ -143,11 +143,11 @@ nav .logo {
     margin-left: 1rem;
 }*/
 
-.org-text img {
+.org .org-text img {
     width: 100%;
 }
 
-.org-text {
+.org .org-text {
     /*width: 100%;
     font-size: 23px;
     text-align: center;
@@ -164,7 +164,7 @@ nav .logo {
     line-height: 1.7;
 }
 
-.org-text p {
+.org .org-text p {
     /*width: 100%;
     font-size: 20px;
     text-align: center;
