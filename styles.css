@@ -579,10 +579,11 @@ nav .logo {
     color: white;
     padding: 1rem;
     font-weight: 550;
-    font-size: 15px;
+    font-size: 13px;
     margin: 0 auto;
     justify-content: center;
-    text-align: center 
+    text-align: center;
+    margin-top: 1.5rem;
 }
 
 @media(max-width:800px){
