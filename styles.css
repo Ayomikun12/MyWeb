@@ -31,6 +31,7 @@ nav .mainMenu {
     gap: 20px;
     margin: 0 auto;
     margin-left: 18rem;
+    margin-top: .4rem;
 }
 
 nav .mainMenu li a {
@@ -57,7 +58,8 @@ nav .closeMenu {
 }
 
 nav .logo {
-    margin: 3px;
+    margin-top: .4rem;
+    margin-left: .6rem;
     font-size: 18px;
     cursor: pointer;
     color: #000;
@@ -321,10 +323,10 @@ nav .logo {
 .service p {
     text-align: center;
     margin-top: 1rem;
-    font-size: 20px;
+    font-size: 28px;
     color: #000;
     opacity: .7;
-    width: 60%;
+    width: 100%;
     margin: 0 auto;
     margin-top: 1rem;
 }
@@ -341,7 +343,7 @@ nav .logo {
 }
 
 .new-img img {
-    width: 75%;
+    width: 100%;
     margin-left: 3rem;
     border-radius: 6px;
 }
@@ -397,7 +399,7 @@ nav .logo {
     justify-content: center;
     margin: 0 auto;
     margin-top: 3rem;
-    width: 20%;
+    width: 70%;
     border-radius: 8px;
 }
 
