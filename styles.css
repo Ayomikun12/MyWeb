@@ -675,9 +675,9 @@ nav .logo {
     }
 
     .text h1 {
-        width: 50%;
+        width: 85%;
         font-size: 18px;
-        margin: 0;
+        margin: 0 auto;
     }
 
     .text p {
@@ -707,12 +707,16 @@ nav .logo {
     }
 
     .hero-text .world p {
-        width: 80%;
+        width: 100%;
         font-size: 12px;
     }
 
+    .worlds {
+        width: 100%;
+    }
+
     .worlds p {
-        width: 80%;
+        width: 100%;
         font-size: 12px;
     }
     
@@ -875,6 +879,7 @@ nav .logo {
 
     .terms {
         display: grid;
+        font-size: 15px;
     }
 
     .city {
@@ -888,6 +893,7 @@ nav .logo {
 
     .refuge {
         margin: 0;
+        font-size: 15px;
     }
 
     .refuge h1 {
