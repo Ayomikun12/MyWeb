@@ -147,7 +147,7 @@ nav .logo {
     width: 100%;
 }
 
-.org .org-text {
+.org .org-text p {
     /*width: 100%;
     font-size: 23px;
     text-align: center;
@@ -164,7 +164,7 @@ nav .logo {
     line-height: 1.7;
 }
 
-.org .org-text p {
+.org .org-text {
     /*width: 100%;
     font-size: 20px;
     text-align: center;
@@ -178,7 +178,6 @@ nav .logo {
     margin: 0 auto;
     text-align: center;
     margin-top: 1rem;
-    opacity: 0;
     animation: animateContent 2s ease-in forwards;
 }
 
