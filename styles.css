@@ -125,6 +125,7 @@ nav .logo {
     border-radius: 4px;
     text-align: center;
     padding: .5rem;
+    display: none;
 }
 
 .vision .two {
