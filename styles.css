@@ -91,7 +91,7 @@ nav .logo {
     width: 50%;
     margin: 0 auto;
     text-align: center;
-    font-size: 22px;
+    font-size: 28px;
     color: #000;
 }
 
@@ -128,7 +128,7 @@ nav .logo {
 .vision .two {
     text-align: center;
     margin-top: 2rem;
-    font-size: 13px;
+    font-size: 20px;
 }
 
 .org {
@@ -146,7 +146,7 @@ nav .logo {
 
 .org .org-text img {
     width: 100%;
-    margin: 1rem;
+    margin-left: 1rem;
 }
 
 .org .org-text p {
@@ -156,7 +156,7 @@ nav .logo {
     color: rgb(87, 87, 233);*/
     text-align: center;
     margin-top: 1rem;
-    font-size: 12px;
+    font-size: 20px;
     font-weight: 500;
     background-color: #fff;
     color: #000;
@@ -244,7 +244,7 @@ nav .logo {
     color: rgb(87, 87, 233);*/
     text-align: center;
     margin-top: 1rem;
-    font-size: 12px;
+    font-size: 20px;
     font-weight: 500;
     background-color: #fff;
     color: #000;
@@ -286,7 +286,7 @@ nav .logo {
 .service p {
     text-align: center;
     margin-top: 1rem;
-    font-size: 14px;
+    font-size: 20px;
     color: #000;
     opacity: .7;
     width: 60%;
@@ -353,7 +353,7 @@ nav .logo {
 .magic p {
     color: #000;
     margin-top: 1rem;
-    font-size: 14px;
+    font-size: 20px;
     opacity: .7;
 }
 
