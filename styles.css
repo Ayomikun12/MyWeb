@@ -73,6 +73,7 @@ nav .logo {
     width: 10%;
     padding: 1rem;
     text-decoration: none;
+    display: none;
 }
 
 .hero {
@@ -139,6 +140,7 @@ nav .logo {
     display: flex;
     padding: .7rem;
     margin: .6rem;
+    gap: 10px;
 }
 
 /*.org-text {
@@ -234,7 +236,8 @@ nav .logo {
 .hero-text {
     display: flex;
     padding: .8rem;
-    margin: .7rem
+    margin: .7rem;
+    gap: 10px;
 }
 
 .hero-text .world img {
