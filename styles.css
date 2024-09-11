@@ -696,6 +696,7 @@ nav .logo {
 
     .org-text p {
         width: 50%;
+        font-size: 12px;
     }
 
     .hero-text {
@@ -707,10 +708,12 @@ nav .logo {
 
     .hero-text p {
         width: 50%;
+        font-size: 12px;
     }
 
     .worlds p {
         width: 50%;
+        font-size: 12px;
     }
     
 
