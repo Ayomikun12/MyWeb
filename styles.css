@@ -20,6 +20,7 @@ nav {
     display: flex;
     background-color: #2babff;
     color: black;
+    padding: .6rem;
 }
 
 nav .mainMenu {
@@ -275,14 +276,14 @@ nav .logo {
 
 .service h1 {
     text-align: center;
-    color: rgb(87, 87, 233);
+    color: #000;
 }
 
 .service p {
     text-align: center;
     margin-top: 1rem;
-    font-size: 20px;
-    color: rgb(87, 87, 233);
+    font-size: 14px;
+    color: #000;
     opacity: .7;
     width: 60%;
     margin: 0 auto;
@@ -342,13 +343,13 @@ nav .logo {
 }
 
 .magic h1 {
-    color: rgb(87, 87, 233);
+    color: #000;
 }
 
 .magic p {
-    color: rgb(87, 87, 233);
+    color: #000;
     margin-top: 1rem;
-    font-size: 20px;
+    font-size: 14px;
     opacity: .7;
 }
 
@@ -364,7 +365,7 @@ nav .logo {
 .magic-img h1 {
     text-align: center;
     font-size: 22px;
-    color: rgb(87, 87, 233);
+    color: #000;
 }
 
 .magic-img p {
@@ -378,12 +379,12 @@ nav .logo {
 }
 
 .con h1 {
-    color: rgb(87, 87, 233);
+    color: #000;
 }
 
 .con p {
     margin-top: 1rem;
-    color: rgb(87, 87, 233);
+    color: #000;
     opacity: .7;
     font-size: 20px;
 }
