@@ -58,7 +58,7 @@ nav .closeMenu {
 }
 
 nav .logo {
-    margin-top: .5rem;
+    margin-top: .7rem;
     margin-left: .6rem;
     font-size: 18px;
     cursor: pointer;
@@ -515,6 +515,7 @@ nav .logo {
 
 .terms {
     display: flex;
+    font-size: 28px;
 }
 
 .useful {
@@ -574,6 +575,7 @@ nav .logo {
     padding: 1rem;
     font-weight: 550;
     font-size: 15px;
+    margin: 0 auto;
 }
 
 @media(max-width:800px){
