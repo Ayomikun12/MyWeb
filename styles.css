@@ -30,7 +30,7 @@ nav .mainMenu {
     font-weight: 550;
     gap: 20px;
     margin: 0 auto;
-    margin-left: 18rem;
+    margin-left: 20rem;
     margin-top: .4rem;
 }
 
@@ -58,7 +58,7 @@ nav .closeMenu {
 }
 
 nav .logo {
-    margin-top: .4rem;
+    margin-top: .5rem;
     margin-left: .6rem;
     font-size: 18px;
     cursor: pointer;
@@ -436,7 +436,7 @@ nav .logo {
     margin-top: 3rem;
     box-shadow: black;
     background-color: rgb(241, 240, 240);
-    width: 20%;
+    width: 100%;
     padding: 1rem;
     border-radius: 8px;
 }
@@ -515,6 +515,10 @@ nav .logo {
 
 .terms {
     display: flex;
+}
+
+.useful {
+    margin: 0 auto;
 }
 
 .useful h1 {
