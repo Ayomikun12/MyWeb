@@ -130,7 +130,7 @@ nav .logo {
     margin-top: 2rem;
 }
 
-.org {
+/*.org {
     display: flex;
 }
 
@@ -141,7 +141,7 @@ nav .logo {
     border-radius: 15px;
     width: 50%;
     margin-left: 1rem;
-}
+}*/
 
 .org-text img {
     width: 100%;
