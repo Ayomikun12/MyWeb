@@ -681,9 +681,9 @@ nav .logo {
     }
 
     .text p {
-        width: 50%;
+        width: 85%;
         font-size: 15px;
-        margin: 0;
+        margin: 0 auto;
         margin-top: 1rem;
     }
 
@@ -694,8 +694,8 @@ nav .logo {
         font-size: 12px;
     }
 
-    .org-text p {
-        width: 50%;
+    .org .org-text p {
+        width: 80%;
         font-size: 12px;
     }
 
@@ -706,13 +706,13 @@ nav .logo {
         font-size: 12px;
     }
 
-    .hero-text p {
-        width: 50%;
+    .hero-text .world p {
+        width: 80%;
         font-size: 12px;
     }
 
     .worlds p {
-        width: 50%;
+        width: 80%;
         font-size: 12px;
     }
     
